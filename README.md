@@ -1,4 +1,7 @@
-﻿# msft_login_clone_poc
+﻿# Microsoft Login Page Clone for Phishing Exercises
+
+Please be advised: This tool is intended exclusively for ethical purposes and its sole intended use is for Phishing Simulation exercises. It must not be utilized for any unethical reasons.
+
 ## Usage:
 
 
