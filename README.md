@@ -10,7 +10,7 @@ git clone https://github.com/AD2011/msft_login_clone_poc
 
 cd msft_login_clone_poc
 
-docker build -d msft_login .
+docker build -t msft_login_phish .
 
-docker run -p 5000:5000 msft_login
+docker run --name msft_phish -p 5000:5000 msft_login_phish
 ```
